@@ -1,3 +1,6 @@
+# VSCode
+.vscode/
+
 # Images and Downloaded files
 *.chunklist
 *.dmg
