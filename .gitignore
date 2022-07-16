@@ -1,0 +1,6 @@
+# Images and Downloaded files
+*.chunklist
+*.dmg
+*.vdi
+*.vmdk
+*.img
